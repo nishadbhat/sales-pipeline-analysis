@@ -11,3 +11,6 @@ Using SQL for data extraction and Tableau for visualization, the analysis focuse
 - Opportunity volume distribution across pipeline stages to detect drop-offs
 - Revenue contribution by industry segment to identify high-value markets
 - Closing value trends over time to assess revenue momentum and seasonality
+
+- Tableau link :https://public.tableau.com/app/profile/nisha.db/viz/SalesPipelineandRevenueAnalysis/SalesPipelineRevenueAnalysis
+- 
